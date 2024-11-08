@@ -1,6 +1,7 @@
 module movebook::movebook{
+    let a = 9;
+fun comment() {
+    let a: u8;
 
-// this a comment 
-let a: u16 = 256;
-
-}
+    
+} }
