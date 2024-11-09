@@ -1,5 +1,10 @@
-module movebook::movebook;
+module movebook::movebook{
 
-fun comment() {
-    let a: u8;
-} 
+    use std::string::String;
+
+    public struct Person {
+        name: String,
+        age: u8,
+        occupation: String
+    }
+     }
