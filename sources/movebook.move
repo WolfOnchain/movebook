@@ -5,6 +5,7 @@ module movebook::movebook{
     public struct Person {
         name: String,
         age: u8,
-        occupation: String
+        occupation: String,
+        school: String,
     }
      }
